@@ -1,12 +1,12 @@
 {
-  "name": "glance-zero-query-inspiration-graph-matcher-skill",
+  "name": "genpark-zero-query-inspiration-graph-matcher-skill",
   "version": "1.0.0",
-  "description": "Glance Zero-Query Inspiration Graph Matcher - Eliminates search boxes by transforming ambient visual wallpapers and lifestyle scenes into high-converting retail product recommendations.",
+  "description": "GenPark Zero-Query Inspiration Graph Matcher - Eliminates search boxes by transforming ambient visual wallpapers and lifestyle scenes into high-converting retail product recommendations.",
   "category": "Service",
   "mcp_entry": "mcp_server.py",
   "python_version": ">=3.9",
   "tags": [
-    "glance",
+    "genpark",
     "zero-query",
     "visual-search",
     "agentic-commerce",
